@@ -1,0 +1,67 @@
+# Secrets
+
+.env
+
+*.env
+
+*.key
+
+*.pem
+
+*.token
+
+*.secret
+
+secrets/
+
+credentials/
+
+# Kubernetes sensitive files
+
+kubeconfig
+
+*.kubeconfig
+
+admin.conf
+
+*.conf
+
+# SSH
+
+id_rsa
+
+id_ed25519
+
+*.pub
+
+# Logs
+
+*.log
+
+logs/
+
+# OS files
+
+.DS_Store
+
+Thumbs.db
+
+# Temporary files
+
+tmp/
+
+temp/
+
+*.tmp
+
+# Archives
+
+*.zip
+
+*.tar
+
+*.tar.gz
+
+# Screenshots raw dump
+
+raw-screenshots/
